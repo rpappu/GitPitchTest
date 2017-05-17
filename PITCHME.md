@@ -9,4 +9,4 @@ $$P_t = P_d + P_s + P_l$$
 
 Total Power Consumption
 
-$$P_{total} = P_{dyn} + P_{sc} + P_{leakage}$$
+$$P\_{total} = P\_{dyn} + P\_{sc} + P_{leakage}$$
